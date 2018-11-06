@@ -1,0 +1,19 @@
+body {
+  background: url("./images/straws.png");
+  background-repeat: repeat;
+}
+
+a {
+  color:inherit;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+
+/*.navbar-nav {
+  margin:0 auto;
+  display: inline-block;
+  text-align: center;
+}
